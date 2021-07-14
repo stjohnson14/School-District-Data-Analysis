@@ -1,0 +1,9 @@
+Trends observed in City School summaries:
+1)	Top 5 performing schools by overall passing percentage have less than 2300 students. Bottom 5 performing schools all have greater than 2900 stududents.  
+2)	According to overall passing percentage, bottom 5 schools compared to top 5 schools perform worse in Math scores than Reading scores
+3)	Top 5 schools by overall passing percentage are all Charter, bottom 5 are all District schools.
+4)	Regardless of how high average math grades were, both District and Charter schools had very little variance between 9th grade averages and 12th grade averages
+5)	Schools that spend above approximately $655/per student happened to have the lowest overall passing percentage
+6)	3,000 students per school seems to be the cutoff before overall passing percentages start to drop drastically.
+7)	Charter schools have higher grades and passing percentages than District Schools
+	
