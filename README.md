@@ -4,11 +4,11 @@ In this case study, I am acting as the Chief Data Scientist for a fictional city
 
 As a first task, I am asked to analyze the district-wide standardized test results. I am given every student's math and reading scores, as well as various information on the schools they attend. My responsibility was to aggregate the data to and showcase obvious trends in school performance.
 
+![1](https://user-images.githubusercontent.com/84537717/128374125-02974bf1-a1cb-4bb6-891d-efc312695fb8.PNG)
 
+My final report includes the following:
 
-My final report needed to include each of the following:
-
---District Summary--
+### --District Summary--
 
   * Total Schools
   * Total Students
@@ -17,11 +17,27 @@ My final report needed to include each of the following:
   * Average Reading Score
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
+  * % Overall Passing (The percentage of students that passed math and reading.)
 
-### School Summary
+![district](https://user-images.githubusercontent.com/84537717/128374320-3bc1b52d-5016-4a36-84aa-8fd57fab73f7.PNG)
 
-* Create an overview table that summarizes key metrics about each school, including:
+### --School Summary--
+
+  * School Name
+  * School Type
+  * Total Students
+  * Total School Budget
+  * Per Student Budget
+  * Average Math Score
+  * Average Reading Score
+  * % Passing Math (The percentage of students that passed math.)
+  * % Passing Reading (The percentage of students that passed reading.)
+  * % Overall Passing (The percentage of students that passed math and reading.)
+
+![2](https://user-images.githubusercontent.com/84537717/128374240-3442dc2b-7276-40af-8897-6e2c80a05e66.PNG)
+
+### --Top Performing Schools (By % Overall Passing)--
+
   * School Name
   * School Type
   * Total Students
@@ -33,45 +49,28 @@ My final report needed to include each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-### Top Performing Schools (By % Overall Passing)
+![top](https://user-images.githubusercontent.com/84537717/128374393-45148186-28e1-4771-822a-90d7e08a83f4.PNG)
 
-* Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
-  * School Name
-  * School Type
-  * Total Students
-  * Total School Budget
-  * Per Student Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math (The percentage of students that passed math.)
-  * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
+### --Bottom Performing Schools (By % Overall Passing)--
 
-### Bottom Performing Schools (By % Overall Passing)
+![bottom](https://user-images.githubusercontent.com/84537717/128374481-a14f87b0-cdde-47b4-ba43-ad193493a195.PNG)
 
-* Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
+### --Math Scores by Grade--
 
-### Math Scores by Grade\*\*
+![math](https://user-images.githubusercontent.com/84537717/128375397-a2ff06a6-85ac-4969-a885-3a0615da8c1c.PNG)
 
-* Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+### --Reading Scores by Grade--
 
-### Reading Scores by Grade
+![reading](https://user-images.githubusercontent.com/84537717/128375436-2ee4967e-09cf-400e-a69c-404fd37be97f.PNG)
 
-* Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+### --Scores by School Spending--
 
-### Scores by School Spending
+![spending ranges](https://user-images.githubusercontent.com/84537717/128375530-d00346d3-0820-41be-94c0-8098bed1aaeb.PNG)
 
-* Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math (The percentage of students that passed math.)
-  * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
+### --Scores by School Size--
 
-### Scores by School Size
+![size range](https://user-images.githubusercontent.com/84537717/128375573-ed5c1124-e633-448c-8e9c-9e33d6a06c1d.PNG)
 
-* Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+### --Scores by School Type--
 
-### Scores by School Type
-
-* Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+![type](https://user-images.githubusercontent.com/84537717/128375626-20fc146d-4231-4108-a304-019a2ed32227.PNG)
