@@ -1,4 +1,4 @@
-
+### School District Data Analysis
 
 In this case study, I am acting as the Chief Data Scientist for a fictional city's school district, helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
